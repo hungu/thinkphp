@@ -1,0 +1,16 @@
+[ 2015-12-09T23:08:55+08:00 ] 127.0.0.1 /zahi/thinkphp/Home/User/model
+ERR: 1146:Table 'thinkphp.think_u_ser' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_u_ser`
+
+[ 2015-12-09T23:09:43+08:00 ] 127.0.0.1 /zahi/thinkphp/Home/User/model
+ERR: 1146:Table 'thinkphp.think_u_ser' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_u_ser`
+
+[ 2015-12-09T23:11:59+08:00 ] 127.0.0.1 /zahi/thinkphp/Home/User/model
+ERR: 1054:Unknown column 'email' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `think_user` WHERE ( `user` = '蜡笔小新' OR `email` = '蜡笔小新' ) 
+
+[ 2015-12-09T23:13:39+08:00 ] 127.0.0.1 /zahi/thinkphp/Home/User/model
+ERR: 1054:Unknown column 'email' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `think_user` WHERE ( `user` = '蜡笔小新' OR `email` = '蜡笔小新' ) 
+

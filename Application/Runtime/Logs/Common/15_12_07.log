@@ -1,0 +1,48 @@
+[ 2015-12-07T22:37:37+08:00 ] 127.0.0.1 /zahi/thinkphp/index.php/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+ERR: 无法加载模块:Index
+
+[ 2015-12-07T22:47:24+08:00 ] 127.0.0.1 /zahi/thinkphp/index.php/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+ERR: 无法加载模块:Common
+
+[ 2015-12-07T22:47:49+08:00 ] 127.0.0.1 /zahi/thinkphp/index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+ERR: 无法加载模块:Admin
+
+[ 2015-12-07T23:20:48+08:00 ] 127.0.0.1 /zahi/thinkphp/index.php/Home/User/test/user/lee/pass/123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+ERR: 无法加载模块:Home/User/test/user/lee/pass/123
+
+[ 2015-12-07T23:39:31+08:00 ] 127.0.0.1 /zahi/thinkphp/Home_User_test_user_lee_pass_123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+ERR: 无法加载模块:Home_User_test_user_lee_pass_123
+
+[ 2015-12-07T23:42:04+08:00 ] 127.0.0.1 /zahi/thinkphp/Admin/User/test/user/lee/pass/123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+ERR: 无法加载模块:User
+
+[ 2015-12-07T23:46:21+08:00 ] 127.0.0.1 /zahi/thinkphp/Admin/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+ERR: 无法加载模块:Index
+
+[ 2015-12-07T23:47:54+08:00 ] 127.0.0.1 /zahi/thinkphp/Admin/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+ERR: 无法加载模块:Index
+
